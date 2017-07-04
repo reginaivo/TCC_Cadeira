@@ -17,7 +17,7 @@
 #include "pwm.c"
 #include "cinematica.c"//Bloco cinemático
 #include "lm35.c"//Leitura da temperatura dos motores
-//#include "PID.c"//Bloco do PID
+#include "PID.c"//Bloco do PID
 //#include "PSO.c"//Bloco de sintonia do PID usando PSO
 #include "joystick.c"
 #include "logica.c"
